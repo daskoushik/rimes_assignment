@@ -2,7 +2,7 @@
 
 There are 5 systems: 
 
-S1: running a Linux based standalone applica�on with MySQL in local network, share data to S2. 
+S1: running a Linux based standalone application with MySQL in local network, share data to S2. 
 
 S2: running a PHP/MySQL Web application in local/public network, receive data from S1. 
 
