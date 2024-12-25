@@ -26,7 +26,7 @@ b. Provide a systems architecture.
 c. Provide a network design for all systems. 
 
 2. If there are no limited in physical servers and two public network connections available, please: 
-a. Provide your best prac�ce designs and architectures to manage and handle all servers 
+a. Provide your best practice designs and architectures to manage and handle all servers 
 and systems.
 
 You can use: 
